@@ -1,0 +1,753 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tra",
+				"transform	CSS - transform: ;"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"get_template_directory",
+				"get_template_directory_uri"
+			],
+			[
+				"get_te",
+				"get_template"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"ff",
+				"ff4351"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"magin",
+				"margin-bottom"
+			],
+			[
+				"au",
+				"auto"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"up",
+				"uppercase"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"pre",
+				"pre-wrap"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"san",
+				"sans-serif"
+			],
+			[
+				"sp",
+				"Spinnaker"
+			],
+			[
+				"hi",
+				"hidden"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"fff",
+				"ffffff"
+			],
+			[
+				"home",
+				"home-software-cta"
+			],
+			[
+				"lo",
+				"lowercase"
+			],
+			[
+				"add_",
+				"add_action"
+			],
+			[
+				"a",
+				"a	Tag"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"o",
+				"opacity"
+			],
+			[
+				"webkit",
+				"webkit-animation"
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"trans",
+				"transparent"
+			],
+			[
+				"remove_th",
+				"remove_theme_support"
+			],
+			[
+				"wp_delete_",
+				"wp_delete_nav_menu"
+			],
+			[
+				"do",
+				"do_action"
+			],
+			[
+				"genes",
+				"genesis_header"
+			],
+			[
+				"non",
+				"none"
+			],
+			[
+				"list-style",
+				"list-style-type"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"is_page",
+				"is_front_page"
+			],
+			[
+				"m",
+				"middle"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"ce",
+				"center"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"ladd",
+				"ladda_css"
+			],
+			[
+				"ladda",
+				"ladda_spin"
+			],
+			[
+				"SITE",
+				"site_url"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 436.0,
+		"selected_items":
+		[
+			[
+				"sftp",
+				"Preferences: SFTP Settings"
+			],
+			[
+				"",
+				"Preferences: SFTP Key Bindings"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: <head>"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"colo",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 735.0
+	},
+	"console":
+	{
+		"height": 246.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"@import \"compass\"",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print('Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Rock Hardbody/Documents/Websites/wdp.dev/wp-config.php",
+		"/C/Users/Rock Hardbody/Documents/Websites/www.annie-theme.dev/wp-content/themes/annie-dog/style.css",
+		"/C/Users/Rock Hardbody/Documents/Websites/www.annie-theme.dev/wp-content/themes/annie-dog/header.php",
+		"/C/Users/Rock Hardbody/Documents/Websites/www.annie-theme.dev/wp-content/themes/annie-dog/functions.php",
+		"/C/Users/Rock Hardbody/Documents/Websites/www.annie-theme.dev/wp-content/themes/annie-dog/index.php",
+		"/C/Users/Rock Hardbody/Documents/Websites/www.annie-theme.dev/wp-includes/pomo/mo.php",
+		"/C/Users/Rock Hardbody/Documents/Websites/www.annie-theme.dev/wp-includes/pomo/translations.php",
+		"/C/Users/Rock Hardbody/AppData/Local/Temp/fz3temp-1/module.calls-to-action.php",
+		"/C/Users/Rock Hardbody/Desktop/WordPress Stuff/Themes/StellaBlue/archives.php",
+		"/C/Users/Rock Hardbody/AppData/Local/Temp/fz3temp-1/archives.php",
+		"/C/Program Files (x86)/Adobe/Adobe Illustrator CS6/Presets/en_US/Scripts/MultiExporter.jsx",
+		"/C/Users/Rock Hardbody/AppData/Local/Temp/fz3temp-1/style.css",
+		"/C/Users/Rock Hardbody/AppData/Local/Temp/fz3temp-1/page.php",
+		"/C/Users/Rock Hardbody/Desktop/Web Development/Bootstrap Book/.gitignore",
+		"/C/Users/Rock Hardbody/Desktop/WordPress Stuff/Gravity Forms/Gravity-Firms-License-Number-for-Plugin.txt",
+		"/C/Users/Rock Hardbody/AppData/Local/Temp/fz3temp-1/archive.php",
+		"/C/Users/Rock Hardbody/Desktop/Dropbox/Adobe Stuff/Adobe® Photoshop® CS6 Keyboard Shortcuts.htm",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/Rock Hardbody/AppData/Local/Temp/fz3temp-1/.my.cnf",
+		"/C/Users/Rock Hardbody/AppData/Local/Temp/fz3temp-1/wp-config.php",
+		"/C/Users/Rock Hardbody/AppData/Local/Temp/fz3temp-1/wp-config 2.php",
+		"/C/Users/Rock Hardbody/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Rock Hardbody/AppData/Local/Temp/fz3temp-1/WORDPRESS",
+		"/C/Users/Rock Hardbody/AppData/Local/Temp/fz3temp-1/config.js",
+		"/C/Users/Rock Hardbody/AppData/Local/Temp/fz3temp-1/apache2.conf",
+		"/C/Users/Rock Hardbody/AppData/Local/Temp/fz3temp-1/functions.php",
+		"/C/Users/Rock Hardbody/AppData/Local/Temp/fz3temp-1/header.php",
+		"/C/Users/Rock Hardbody/Desktop/WordPress Stuff/Websites/So Hooked Up/SHU Jobify child theme/functions.php",
+		"/C/Users/Rock Hardbody/Desktop/WordPress Stuff/Websites/So Hooked Up/SHU Jobify child theme/style.css",
+		"/C/Users/Rock Hardbody/.git/config",
+		"/C/Users/Rock Hardbody/.gitconfig",
+		"/C/Users/Rock Hardbody/AppData/Local/Temp/fz3temp-1/.htaccess",
+		"/C/Users/Rock Hardbody/AppData/Local/Temp/fz3temp-1/.htaccess 2",
+		"/C/Users/Rock Hardbody/AppData/Local/Temp/fz3temp-1/wp-mail.php",
+		"/C/Users/Rock Hardbody/Desktop/Thumbs.db",
+		"/C/Users/Rock Hardbody/AppData/Local/Temp/fz3temp-1/pricingtable.php",
+		"/C/Users/Rock Hardbody/AppData/Roaming/Sublime Text 3/Packages/SFTP/SFTP.sublime-settings",
+		"/C/Users/Rock Hardbody/AppData/Roaming/Sublime Text 3/Packages/User/SFTP.sublime-settings",
+		"/C/Users/Rock Hardbody/Desktop/WordPress Stuff/Archives Stuff/archives-page.php",
+		"/C/Users/Rock Hardbody/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Rock Hardbody/AppData/Roaming/Sublime Text 3/Packages/SFTP/Default (Windows).sublime-keymap",
+		"/C/Users/Rock Hardbody/AppData/Roaming/Sublime Text 3/Packages/Gist/Gist.sublime-settings",
+		"/C/Users/Rock Hardbody/AppData/Roaming/Sublime Text 3/Packages/User/Gist.sublime-settings",
+		"/C/Users/Rock Hardbody/AppData/Local/Google/Chrome SxS/User Data/Default/User StyleSheets/Custom.css",
+		"/C/Users/Rock Hardbody/AppData/Local/Google/Chrome/User Data/Default/User StyleSheets/Custom.css",
+		"/C/Users/Rock Hardbody/AppData/Local/Temp/fz3temp-1/content.php",
+		"/C/Users/Rock Hardbody/AppData/Local/Temp/fz3temp-1/header 2.php",
+		"/C/Users/Rock Hardbody/AppData/Local/Temp/fz3temp-1/content-page.php",
+		"/C/Users/Rock Hardbody/AppData/Local/Temp/fz3temp-1/main.css",
+		"/C/Users/Rock Hardbody/AppData/Local/Temp/fz3temp-1/default.hbs",
+		"/C/Users/Rock Hardbody/AppData/Local/Temp/fz3temp-1/index.hbs",
+		"/C/Users/Rock Hardbody/AppData/Local/Temp/fz3temp-1/post.hbs",
+		"/C/Users/Rock Hardbody/Desktop/Ghost/Themes/Ambassador-0.5/Ambassador-0.5/assets/js/index.js",
+		"/C/Users/Rock Hardbody/AppData/Local/Temp/fz3temp-1/content-none.php",
+		"/C/Users/Rock Hardbody/Desktop/WordPress Stuff/Themes/illustratr-wordpress-theme-master/illustratr-wordpress-theme-master/style.scss",
+		"/C/Users/Rock Hardbody/Desktop/WordPress Stuff/Themes/Child Themes/Dangerfield/index.php",
+		"/C/Users/Rock Hardbody/Desktop/WordPress Stuff/Themes/Child Themes/Dangerfield/style.css",
+		"/C/Users/Rock Hardbody/Desktop/WordPress Stuff/Themes/Child Themes/Dangerfield/header.php",
+		"/C/Users/Rock Hardbody/Desktop/WordPress Stuff/Themes/Child Themes/Dangerfield/footer.php",
+		"/C/Users/Rock Hardbody/Desktop/WordPress Stuff/Themes/Child Themes/Dangerfield/_mixins.scss",
+		"/C/Users/Rock Hardbody/Desktop/WordPress Stuff/Themes/Child Themes/Dangerfield/_typography.scss",
+		"/C/Users/Rock Hardbody/Documents/Websites/newbusinesswebsite.dev/wp-content/themes/winter-2014/header.php",
+		"/C/Users/Rock Hardbody/Desktop/WordPress Stuff/Themes/Child Themes/Dangerfield/_settings.scss",
+		"/C/Users/Rock Hardbody/Desktop/WordPress Stuff/Themes/Child Themes/Dangerfield/_social.scss",
+		"/C/Users/Rock Hardbody/Desktop/WordPress Stuff/Themes/illustratr-wordpress-theme-master/illustratr-wordpress-theme-master/scss/_settings.scss",
+		"/C/Users/Rock Hardbody/Desktop/WordPress Stuff/Themes/illustratr-wordpress-theme-master/illustratr-wordpress-theme-master/functions.php",
+		"/C/Program Files (x86)/Adobe/Adobe Photoshop CS6/Plug-ins/TinyPNG/TinyPNG.license",
+		"/C/Users/Rock Hardbody/Desktop/WordPress Stuff/Themes/illustratr-wordpress-theme-master/illustratr-wordpress-theme-master/scss/_elements.scss",
+		"/C/Users/Rock Hardbody/Desktop/WordPress Stuff/Themes/illustratr-wordpress-theme-master/illustratr-wordpress-theme-master/scss/_mixins.scss",
+		"/C/Users/Rock Hardbody/Desktop/WordPress Stuff/Themes/illustratr-wordpress-theme-master/illustratr-wordpress-theme-master/footer.php",
+		"/C/Users/Rock Hardbody/Desktop/WordPress Stuff/Themes/illustratr-wordpress-theme-master/illustratr-wordpress-theme-master/scss/_typography.scss",
+		"/C/Users/Rock Hardbody/Desktop/WordPress Stuff/WP Theme Dvlpmnt/MBM Shape Theme/header.php",
+		"/C/Users/Rock Hardbody/Desktop/WordPress Stuff/Themes/Esau/Esau/style.css",
+		"/C/Users/Rock Hardbody/Desktop/WordPress Stuff/Themes/Child Themes/Cassidy/functions.php",
+		"/C/Users/Rock Hardbody/Desktop/WordPress Stuff/Themes/Child Themes/radiohead/radiohead/functions.php",
+		"/C/Users/Rock Hardbody/Desktop/WordPress Stuff/Themes/Child Themes/radiohead/radiohead/header.php",
+		"/C/Users/Rock Hardbody/Desktop/WordPress Stuff/Themes/Child Themes/Cassidy/header.php",
+		"/C/Users/Rock Hardbody/Desktop/WordPress Stuff/Themes/Esau/Esau/header.php",
+		"/C/Users/Rock Hardbody/Documents/Websites/newbusinesswebsite.dev/wp-content/themes/winter-2014/functions.php",
+		"/C/Users/Rock Hardbody/Documents/Websites/newbusinesswebsite.dev/wp-content/themes/winter-2014/style.css",
+		"/C/Users/Rock Hardbody/Desktop/style.css",
+		"/C/Users/Rock Hardbody/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
+		"/C/Users/Rock Hardbody/AppData/Roaming/Sublime Text 3/Packages/CleanCSS/CleanCSS.sublime-settings",
+		"/C/Users/Rock Hardbody/AppData/Roaming/Sublime Text 3/Packages/BracketHighlighter/bh_core.sublime-settings",
+		"/C/Users/Rock Hardbody/AppData/Roaming/Sublime Text 3/Packages/User/bh_core.sublime-settings",
+		"/C/Users/Rock Hardbody/AppData/Roaming/Sublime Text 3/Packages/GitGutter/GitGutter.sublime-settings",
+		"/C/Users/Rock Hardbody/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Rock Hardbody/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/C/Users/Rock Hardbody/AppData/Roaming/Sublime Text 3/Packages/SublimeMagick/SublimeMagick.sublime-settings",
+		"/C/Users/Rock Hardbody/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/C/Users/Rock Hardbody/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/Rock Hardbody/AppData/Roaming/Sublime Text 3/Packages/User/LiveReload.sublime-settings",
+		"/C/Users/Rock Hardbody/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/C/Users/Rock Hardbody/AppData/Roaming/Sublime Text 3/Packages/User/SublimeMagick.sublime-settings",
+		"/C/Users/Rock Hardbody/Desktop/WordPress Stuff/Genesis/Child Themes/genesis-sample-child-theme/genesis-sample-child-theme/functions.php",
+		"/C/Users/Rock Hardbody/Documents/Websites/newbusinesswebsite.dev/wp-content/themes/twentythirteen/header.php",
+		"/C/Users/Rock Hardbody/Documents/Websites/newbusinesswebsite.dev/wp-content/themes/twentyfourteen/header.php",
+		"/C/Users/Rock Hardbody/Documents/Websites/newbusinesswebsite.dev/wp-content/themes/winter-2014/index.php",
+		"/C/Users/Rock Hardbody/Documents/Websites/newbusinesswebsite.dev/wp-content/themes/stanleywp/css/bootstrap.css",
+		"/C/Users/Rock Hardbody/Documents/Websites/newbusinesswebsite.dev/wp-content/themes/stanleywp/template-homepage.php",
+		"/C/Users/Rock Hardbody/Documents/Websites/newbusinesswebsite.dev/wp-content/themes/stanleywp/css/bootstrap.min.css",
+		"/C/Users/Rock Hardbody/Documents/Websites/newbusinesswebsite.dev/wp-content/themes/stanleywp/style.css",
+		"/C/Users/Rock Hardbody/AppData/Roaming/Sublime Text 3/Packages/User/CSS.sublime-settings",
+		"/C/Users/Rock Hardbody/AppData/Roaming/Sublime Text 3/Packages/User/GitGutter.sublime-settings",
+		"/C/Users/Rock Hardbody/Documents/Websites/www.wdp.dev/wp-content/themes/winter-2014/style.css",
+		"/C/Users/Rock Hardbody/Desktop/WordPress Stuff/Themes/Child Themes/webdesignpop-winter 2014/functions.php",
+		"/C/Users/Rock Hardbody/Desktop/WordPress Stuff/Themes/Child Themes/winter-2014/functions.php",
+		"/C/Users/Rock Hardbody/Desktop/WordPress Stuff/Genesis/BOILERPLATE/functions.php",
+		"/C/Users/Rock Hardbody/Desktop/WordPress Stuff/Themes/Child Themes/winter-2014/style.css",
+		"/C/Users/Rock Hardbody/AppData/Local/Temp/Temp1_stanleywp.zip/stanleywp/style.css",
+		"/C/Users/Rock Hardbody/Documents/Websites/www.wdp.dev/wp-content/themes/winter-2014/functions.php",
+		"/C/Users/Rock Hardbody/Documents/Websites/www.wdp.dev/wp-content/themes/minimal-wdp/functions.php",
+		"/C/Users/Rock Hardbody/Documents/Websites/www.wdp.dev/wp-content/themes/minimal-wdp/style.css",
+		"/C/Users/Rock Hardbody/Desktop/WordPress Stuff/Themes/Child Themes/stanleywp-child/stanleywp-child/style.css",
+		"/C/Users/Rock Hardbody/Desktop/WordPress Stuff/Themes/Child Themes/minimal-wdp/functions.php",
+		"/C/Users/Rock Hardbody/Desktop/WordPress Stuff/Themes/Child Themes/minimal-wdp/style.css",
+		"/C/Users/Rock Hardbody/Desktop/WordPress Stuff/Themes/Child Themes/minimal-wdp/footer.php",
+		"/C/Users/Rock Hardbody/Desktop/WordPress Stuff/Genesis/BOILERPLATE/footer.php",
+		"/C/Users/Rock Hardbody/Desktop/WordPress Stuff/Genesis/BOILERPLATE/header.php",
+		"/C/Users/Rock Hardbody/Desktop/WordPress Stuff/Themes/Child Themes/minimal-wdp/header.php",
+		"/C/Users/Rock Hardbody/Desktop/WordPress Stuff/Genesis/BOILERPLATE/style.css",
+		"/C/Users/Rock Hardbody/Desktop/WordPress Stuff/Themes/mon-cahier.2.6/mon-cahier/functions.php",
+		"/C/Users/Rock Hardbody/Desktop/WordPress Stuff/Themes/Child Themes/StellaBlue/functions.php",
+		"/C/Users/Rock Hardbody/Desktop/WordPress Stuff/Themes/Child Themes/Esau/functions.php",
+		"/C/Users/Rock Hardbody/Documents/Websites/newbusinesswebsite.dev/wp-content/themes/stanleywp/functions.php",
+		"/C/Users/Rock Hardbody/Documents/Websites/newbusinesswebsite.dev/.htaccess",
+		"/C/Users/Rock Hardbody/Documents/Websites/newbusinesswebsite.dev/wp-content/themes/stanleywp/admin/functions/functions.load.php",
+		"/C/Users/Rock Hardbody/Documents/Websites/newbusinesswebsite.dev/wp-content/themes/stanleywp/admin/index.php"
+	],
+	"find":
+	{
+		"height": 59.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"section",
+			"Noto",
+			"\"Noto-sans\"",
+			"#7a5a32",
+			"#69be6e",
+			"col",
+			".navbar-inverse .navbar-brand:hover, .navbar-inverse .navbar-brand:focus",
+			"hover",
+			"untitled",
+			"typ\n	margin: 0;\n	padding: 5px;\n}\n\n#author-meta .about-author {\n	font-weight: 700;\n	margin: 10px 0 0 0;\n}\n\n/* =Featured Content\n-------------------------------------------------------------- */\n#featured {\n	-moz-border-radius: 4px;\n	-webkit-border-radius: 4px;\n	background-color: #ffffff;\n	border: 1px solid #e5e5e5;\n	border-radius: 4px;\n	padding-bottom: 40px;\n	width: 99.893617021277%;\n}\n\n#featured p {\n	font-size: 18px;\n	font-weight: 200;\n	line-height: 27px;\n	padding: 0 40px 0 40px;\n	text-align: center;\n}\n\n#featured-image {\n	margin: 40px 0 0 0;\n}\n\n#featured-image .fluid-width-video-wrapper {\n	margin-left: -20px;\n}\n\n.featured-image img {\n	margin-top: 44px;\n}\n\n/* =Post\n-------------------------------------------------------------- */\n.comments-link {\n	font-size: 12px;\n}\n\n#cancel-comment-reply-link {\n	color: #990000;\n}\n\n.post-data {\n	clear: both;\n	font-size: 12px;\n	font-weight: 700;\n	margin-top: 20px;\n}\n\n.post-data a {\n	color: #111111;\n}\n\n.post-entry {\n	clear: both;\n}\n\n.post-meta {\n	clear: both;\n	color: #9f9f9f;\n	font-size: 12px;\n	margin-bottom: 10px;\n}\n\n.post-edit {\n	clear: both;\n	display: block;\n	font-size: 12px;\n	margin: 1.5em 0;\n}\n\n.post-search-terms {\n	clear: both;\n}\n\n.read-more {\n	clear: both;\n	font-weight: 700;\n}\n\n.attachment-entry {\n	clear: both;\n	text-align: center;\n}",
+			"naviga\n	margin: 0;\n	padding: 5px;\n}\n\n#author-meta .about-author {\n	font-weight: 700;\n	margin: 10px 0 0 0;\n}\n\n/* =Featured Content\n-------------------------------------------------------------- */\n#featured {\n	-moz-border-radius: 4px;\n	-webkit-border-radius: 4px;\n	background-color: #ffffff;\n	border: 1px solid #e5e5e5;\n	border-radius: 4px;\n	padding-bottom: 40px;\n	width: 99.893617021277%;\n}\n\n#featured p {\n	font-size: 18px;\n	font-weight: 200;\n	line-height: 27px;\n	padding: 0 40px 0 40px;\n	text-align: center;\n}\n\n#featured-image {\n	margin: 40px 0 0 0;\n}\n\n#featured-image .fluid-width-video-wrapper {\n	margin-left: -20px;\n}\n\n.featured-image img {\n	margin-top: 44px;\n}\n\n/* =Post\n-------------------------------------------------------------- */\n.comments-link {\n	font-size: 12px;\n}\n\n#cancel-comment-reply-link {\n	color: #990000;\n}\n\n.post-data {\n	clear: both;\n	font-size: 12px;\n	font-weight: 700;\n	margin-top: 20px;\n}\n\n.post-data a {\n	color: #111111;\n}\n\n.post-entry {\n	clear: both;\n}\n\n.post-meta {\n	clear: both;\n	color: #9f9f9f;\n	font-size: 12px;\n	margin-bottom: 10px;\n}\n\n.post-edit {\n	clear: both;\n	display: block;\n	font-size: 12px;\n	margin: 1.5em 0;\n}\n\n.post-search-terms {\n	clear: both;\n}\n\n.read-more {\n	clear: both;\n	font-weight: 700;\n}\n\n.attachment-entry {\n	clear: both;\n	text-align: center;\n}",
+			"title\n	margin: 0;\n	padding: 5px;\n}\n\n#author-meta .about-author {\n	font-weight: 700;\n	margin: 10px 0 0 0;\n}\n\n/* =Featured Content\n-------------------------------------------------------------- */\n#featured {\n	-moz-border-radius: 4px;\n	-webkit-border-radius: 4px;\n	background-color: #ffffff;\n	border: 1px solid #e5e5e5;\n	border-radius: 4px;\n	padding-bottom: 40px;\n	width: 99.893617021277%;\n}\n\n#featured p {\n	font-size: 18px;\n	font-weight: 200;\n	line-height: 27px;\n	padding: 0 40px 0 40px;\n	text-align: center;\n}\n\n#featured-image {\n	margin: 40px 0 0 0;\n}\n\n#featured-image .fluid-width-video-wrapper {\n	margin-left: -20px;\n}\n\n.featured-image img {\n	margin-top: 44px;\n}\n\n/* =Post\n-------------------------------------------------------------- */\n.comments-link {\n	font-size: 12px;\n}\n\n#cancel-comment-reply-link {\n	color: #990000;\n}\n\n.post-data {\n	clear: both;\n	font-size: 12px;\n	font-weight: 700;\n	margin-top: 20px;\n}\n\n.post-data a {\n	color: #111111;\n}\n\n.post-entry {\n	clear: both;\n}\n\n.post-meta {\n	clear: both;\n	color: #9f9f9f;\n	font-size: 12px;\n	margin-bottom: 10px;\n}\n\n.post-edit {\n	clear: both;\n	display: block;\n	font-size: 12px;\n	margin: 1.5em 0;\n}\n\n.post-search-terms {\n	clear: both;\n}\n\n.read-more {\n	clear: both;\n	font-weight: 700;\n}\n\n.attachment-entry {\n	clear: both;\n	text-align: center;\n}",
+			"widget\n	margin: 0;\n	padding: 5px;\n}\n\n#author-meta .about-author {\n	font-weight: 700;\n	margin: 10px 0 0 0;\n}\n\n/* =Featured Content\n-------------------------------------------------------------- */\n#featured {\n	-moz-border-radius: 4px;\n	-webkit-border-radius: 4px;\n	background-color: #ffffff;\n	border: 1px solid #e5e5e5;\n	border-radius: 4px;\n	padding-bottom: 40px;\n	width: 99.893617021277%;\n}\n\n#featured p {\n	font-size: 18px;\n	font-weight: 200;\n	line-height: 27px;\n	padding: 0 40px 0 40px;\n	text-align: center;\n}\n\n#featured-image {\n	margin: 40px 0 0 0;\n}\n\n#featured-image .fluid-width-video-wrapper {\n	margin-left: -20px;\n}\n\n.featured-image img {\n	margin-top: 44px;\n}\n\n/* =Post\n-------------------------------------------------------------- */\n.comments-link {\n	font-size: 12px;\n}\n\n#cancel-comment-reply-link {\n	color: #990000;\n}\n\n.post-data {\n	clear: both;\n	font-size: 12px;\n	font-weight: 700;\n	margin-top: 20px;\n}\n\n.post-data a {\n	color: #111111;\n}\n\n.post-entry {\n	clear: both;\n}\n\n.post-meta {\n	clear: both;\n	color: #9f9f9f;\n	font-size: 12px;\n	margin-bottom: 10px;\n}\n\n.post-edit {\n	clear: both;\n	display: block;\n	font-size: 12px;\n	margin: 1.5em 0;\n}\n\n.post-search-terms {\n	clear: both;\n}\n\n.read-more {\n	clear: both;\n	font-weight: 700;\n}\n\n.attachment-entry {\n	clear: both;\n	text-align: center;\n}",
+			"post",
+			"content",
+			"header",
+			"global",
+			"label",
+			"grid",
+			"del",
+			"b",
+			"p",
+			"body",
+			"content",
+			"cont",
+			"container",
+			"menu",
+			"social",
+			"content",
+			"main",
+			"header",
+			".content-sidebar",
+			"div",
+			"hover",
+			"lb-album li > a",
+			"f1d",
+			"color_01",
+			"header",
+			"border",
+			"uber",
+			"196dff",
+			"button",
+			"button,cont",
+			"button, cont",
+			"button",
+			"gf",
+			"hover",
+			"transit",
+			"fff",
+			"a669",
+			"http",
+			"c11515",
+			"196dff",
+			"site-header",
+			"aligncenter",
+			"http",
+			"d7c603",
+			"http:",
+			"background-color",
+			"#196dff",
+			"widget input[type=submit",
+			"widget input[type=",
+			"widget input[type=\"submit\"]",
+			".widget input[type=\"submit\"]",
+			"button, .contributor-posts-link, input[type=\"button\"], input[type=\"reset\"], input[type=\"submit\"], .search-toggle, .hentry .mejs-controls .mejs-time-rail .mejs-time-current, .widget button, .widget input[type=\"button\"], .widget input[type=\"reset\"], .widget input[type=\"submit\"], .widget_calendar tbody a, .content-sidebar .widget input[type=\"button\"], .content-sidebar .widget input[type=\"reset\"], .content-sidebar .widget input[type=\"submit\"], .slider-control-paging .slider-active:before, .slider-control-paging .slider-active:hover:before, .slider-direction-nav a:hover",
+			"garamond",
+			"button",
+			"jetpack",
+			"gravity",
+			"-9999",
+			"site",
+			"#637896",
+			"last-child",
+			"harry",
+			"#site-head",
+			"social",
+			"social-icons",
+			"social",
+			"menu-right",
+			"blockquote",
+			"blockquote p",
+			"blockquote, blockquote p",
+			"blogtitle_beetlejoose",
+			"home-template",
+			"h1",
+			"page",
+			"font-family",
+			"0066cc",
+			"c11515",
+			"body",
+			"0066cc",
+			"logo",
+			"196dff",
+			"submit",
+			".widget input[type=submit]:hover",
+			".list-view .site-content .hentry.has-post-thumbnail",
+			"site-title",
+			"site-header",
+			".tag-links a:hover:before",
+			"41a62a",
+			".site-title",
+			"site-title",
+			"letter",
+			"site-title",
+			".content-sidebar .widget .widget-title",
+			"content-sidebar .widget .widget-title",
+			"font-family",
+			".li",
+			"postbyauthor",
+			"li.postbyauthor",
+			"a",
+			"button",
+			"55d737",
+			"margin: 0 auto",
+			"secondary",
+			"blockquote",
+			"code",
+			".site-info",
+			"blockquote",
+			"body",
+			":hover ",
+			".secondary-navigation li:hover ",
+			".secondary-navigation li:hover > a, .secondary-navigation li.focus > a, .secondary-navigation ul ul",
+			"#secondary",
+			"#000",
+			"3px solid #ffab19",
+			"ul li",
+			".post after:"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Open",
+			"crimson",
+			"paranoidandroid",
+			"fffff0",
+			"8c2020",
+			"2d5273",
+			"menu-left",
+			"c11515",
+			".pep-",
+			"Peppermint",
+			"..img/",
+			"@color_01",
+			"color_05",
+			"bodybg.jpg",
+			"beetljoose",
+			"127.0.0.1:2369",
+			"beetljoose",
+			"bj",
+			"#fffff0",
+			"proto",
+			"_proto",
+			"/wp-content/themes/gearstream",
+			".shareicons",
+			".site-header",
+			".content",
+			".content-sidebar-wrap",
+			".site-inner",
+			".site-container",
+			".site-footer",
+			".footer-widgets",
+			".sidebar-secondary",
+			".sidebar-primary",
+			".entry-comments",
+			".entry-meta-tags",
+			".entry-meta-comments",
+			".entry-meta-time",
+			".entry-meta-categories",
+			".entry-footer .entry-meta",
+			".entry-header .entry-meta",
+			".entry",
+			".nav-secondary",
+			".nav-primary",
+			".site-description",
+			".site-title",
+			".title-area",
+			".site-header",
+			"home-top-cta",
+			"genesis_after_entry",
+			"genesis_entry_footer",
+			"genesis_entry_content",
+			"genesis_entry_header",
+			"genesis_before_entry",
+			"#196dff",
+			"196dff",
+			"158, 158, 158",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 40.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "style.sublime-project",
+	"replace":
+	{
+		"height": 114.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Rock Hardbody\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\Gist.sublime-settings"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"selected_items":
+		[
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 258.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
