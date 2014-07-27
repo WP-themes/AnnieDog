@@ -1026,10 +1026,7 @@ input[type="search"] {
   color: white;
 }
 
-.info-box p{
-  font-family: 'Muli', sans-serif;
-  font-size: 1.6rem;
-}
+.info-box p{   font-family: 'Muli', sans-serif;   font-size: 1.6rem; }
 
 /*--------------------------------------------------------------
 10.1 Posts and pages
@@ -1170,7 +1167,7 @@ blockquote cite {
     margin-left: 40%;
     font-size: 18px;
     font-size: 1.8rem;
-    font-family: 'Crimason Text', serif;
+    font-family: 'Crimson Text', serif;
     font-style: normal;
     line-height: 1.5em;
     text-align: right;
