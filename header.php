@@ -48,8 +48,8 @@
 			<button class="menu-toggle"><?php _e( 'Primary Menu', 'annie-dog' ); ?></button>
 			<?php wp_nav_menu( array( 'theme_location' => 'primary' ) ); ?>
 		  		<div class="search-toggle">
-    					<i class="fa fa-search"></i>
-    			<a href="#search-container" class="screen-reader-text"><?php _e( 'Search', 'my-simone' ); ?></a>
+    					<img class="iconic-md" data-src="magnifying-glass.svg">
+    			<a href="#search-container" class="screen-reader-text"><?php _e( 'Search', 'AnnieDog' ); ?></a>
 					</div>
 		  <?php annie_dog_social_menu(); ?>
 

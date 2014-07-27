@@ -325,15 +325,15 @@ a:active {
 5.1 Links
 --------------------------------------------------------------*/
 a {
-	color: royalblue;
+	color: #df4949;
 }
 a:visited {
-	color: purple;
+	color: #e27a3f;
 }
 a:hover,
 a:focus,
 a:active {
-	color: midnightblue;
+	color: #45b29d;
 }
 
 /*--------------------------------------------------------------
@@ -568,6 +568,31 @@ a:active {
     margin: 0 1em;
 }
 
+/* Iconic theme rules. Don't delete! */
+/* Hide all icons that are waiting to be injected */
+img.iconic {
+  display: none;
+}
+/* Make sure filled and text elements only get fills */
+.iconic-property-fill,
+.iconic-property-text {
+  stroke: none !important;
+}
+/* Make sure stroked elements only get strokes */
+.iconic-property-stroke {
+  fill: none !important;
+}
+/* Theme-specific rules */
+/* Main color */
+.iconic * {
+  fill: #efc94c;
+  stroke: #efc94c;
+}
+/* Accent color */
+.iconic .iconic-property-accent {
+  fill: #334d5c;
+  stroke: #334d5c;
+}
 
 /*--------------------------------------------------------------
 X.X Social Menu
@@ -587,7 +612,7 @@ X.X Social Menu
     display: inline-block;
     padding: 0 5px;
     vertical-align: top;
-    font-family: 'Fontawesome';
+    font-family: 'Iconic';
     font-size: 20px;
     color: #fff;
     -webkit-font-smoothing: antialiased;
