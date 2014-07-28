@@ -45,10 +45,11 @@
 		</div>
 
 		<nav id="site-navigation" class="main-navigation" role="navigation">
-			<button class="menu-toggle"><?php _e( 'Primary Menu', 'annie-dog' ); ?></button>
-			<?php wp_nav_menu( array( 'theme_location' => 'primary' ) ); ?>
+			<button class="menu-toggle"><?php _e( 'Primary Menu', 'AnnieDog' ); ?></button>
+      <a class="skip-link screen-reader-text" href="#content"><?php _e( 'Skip to content', 'AnnieDog' ); ?></a>
+			   <?php wp_nav_menu( array( 'theme_location' => 'primary' ) ); ?>
 		  		<div class="search-toggle">
-    					<img class="iconic-md" data-src="magnifying-glass.svg">
+    			    <i class="fa fa-search"></i>
     			<a href="#search-container" class="screen-reader-text"><?php _e( 'Search', 'AnnieDog' ); ?></a>
 					</div>
 		  <?php annie_dog_social_menu(); ?>

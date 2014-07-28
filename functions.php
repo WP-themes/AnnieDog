@@ -22,9 +22,10 @@ if ( ! function_exists( 'annie_dog_setup' ) ) :
  */
 function annie_dog_setup() {
 // This theme styles the visual editor to resemble the theme style.
-$font_url = 'http://fonts.googleapis.com/
-	css?family=Muli:300,300italic|Crimson+Text:400,700,400italic,700italic';
-add_editor_style( array( 'inc/editor-style.css', str_replace( ',', '%2C', $font_url ) ) );
+
+//Adding Google fonts
+			$font_url = 'http://fonts.googleapis.com/css?family=Muli:300,300italic|Crimson+Text:400,700,400italic,700italic';
+			add_editor_style( array( 'inc/editor-style.css', str_replace( ',', '%2C', $font_url ) ) );
 
 	/*
 	 * Make theme available for translation.
@@ -105,7 +106,7 @@ function annie_dog_widgets_init() {
 	register_sidebar( array(
 		'name'          => __( 'Footer Widgets', 'annie-dog' ),
 		'id'            => 'sidebar-2',
-		'description'   => __('Footer Widgets area appears in the footer of the site', 'annie-dog'),
+		'description'   => __('Footer widgets area that appears in the footer of the site', 'annie-dog'),
 		'before_widget' => '<aside id="%1$s" class="widget %2$s">',
 		'after_widget'  => '</aside>',
 		'before_title'  => '<h1 class="widget-title">',
@@ -117,39 +118,39 @@ add_action( 'widgets_init', 'annie_dog_widgets_init' );
 /**
  * Enqueue scripts and styles.
  */
-function annie_dog_scripts() {
-	wp_enqueue_style( 'annie_dog_style', get_stylesheet_uri() );
-if (is_page_template('page-templates/page-no-sidebar.php')) {
+			function annie_dog_scripts() {
+				wp_enqueue_style( 'annie_dog_style', get_stylesheet_uri() );
+					if (is_page_template('page-templates/page-no-sidebar.php')) {
 
-  wp_enqueue_style( 'AnnieDog-layout-style' , get_template_directory_uri() . '/layouts/content-no-sidebar.css');
-} else {
-  wp_enqueue_style( 'AnnieDog-layout-style' , get_template_directory_uri() . '/layouts/content-sidebar.css');
-}
+			  wp_enqueue_style( 'AnnieDog-layout-style' , get_template_directory_uri() . '/layouts/content-no-sidebar.css');
+					} else {
+			  wp_enqueue_style( 'AnnieDog-layout-style' , get_template_directory_uri() . '/layouts/content-sidebar.css');
+									}
 
-	wp_enqueue_style( 'annie-dog-google-fonts', 'http://fonts.googleapis.com/
-	css?family=Muli:300,300italic|Crimson+Text:400,700,400italic,700italic' );
+				wp_enqueue_style( 'annie-dog-google-fonts', 'http://fonts.googleapis.com/
+				css?family=Muli:300,300italic|Crimson+Text:400,700,400italic,700italic' );
 
-	// wp_enqueue_style( 'annie-dog-fontawesome', 'http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css');
+				wp_enqueue_style( 'annie-dog-fontawesome', 'http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css');
 
-	wp_enqueue_script( 'annie-dog-superfish', get_template_directory_uri() . '/js/superfish.min.js', array('jquery'), '20140725', true );
+				wp_enqueue_script( 'annie-dog-superfish', get_template_directory_uri() . '/js/superfish.min.js', array('jquery'), '20140725', true );
 
-	wp_enqueue_script( 'annie-dog-superfish-settings', get_template_directory_uri() . '/js/superfish-settings.js', array('annie-dog-superfish'), '20140725', true );
+				wp_enqueue_script( 'annie-dog-superfish-settings', get_template_directory_uri() . '/js/superfish-settings.js', array('annie-dog-superfish'), '20140725', true );
 
-	wp_enqueue_script( 'annie-dog-navigation', get_template_directory_uri() . '/js/navigation.js', array(), '20140725', true );
+				wp_enqueue_script( 'annie-dog-navigation', get_template_directory_uri() . '/js/navigation.js', array(), '20140725', true );
 
-	wp_enqueue_script( 'annie-dog-iconic', get_template_directory_uri() . '/js/iconic.min.js', array(), '20140725', true );
+				// wp_enqueue_script( 'annie-dog-iconic', get_template_directory_uri() . '/js/iconic.min.js', array(), '20140725', true );
 
-  wp_enqueue_script( 'annie-dog-hide-search', get_template_directory_uri() . '/js/hide-search.js', array('jquery'), '20140725', true );
+			  wp_enqueue_script( 'annie-dog-hide-search', get_template_directory_uri() . '/js/hide-search.js', array('jquery'), '20140725', true );
 
-	wp_enqueue_script( 'annie-dog-skip-link-focus-fix', get_template_directory_uri() . '/js/skip-link-focus-fix.js', array(), '20130115', true );
+				wp_enqueue_script( 'annie-dog-skip-link-focus-fix', get_template_directory_uri() . '/js/skip-link-focus-fix.js', array(), '20130115', true );
 
-	wp_enqueue_script( 'annie-dog-masonry', get_template_directory_uri() . '/js/masonry-settings.js', array('masonry'), '20140725', true );
+				wp_enqueue_script( 'annie-dog-masonry', get_template_directory_uri() . '/js/masonry-settings.js', array('masonry'), '20140725', true );
 
-	if ( is_singular() && comments_open() && get_option( 'thread_comments' ) ) {
-		wp_enqueue_script( 'comment-reply' );
-	}
-}
-add_action( 'wp_enqueue_scripts', 'annie_dog_scripts' );
+				if ( is_singular() && comments_open() && get_option( 'thread_comments' ) ) {
+					wp_enqueue_script( 'comment-reply' );
+				}
+			}
+			add_action( 'wp_enqueue_scripts', 'annie_dog_scripts' );
 
 /**
  * Implement the Custom Header feature.

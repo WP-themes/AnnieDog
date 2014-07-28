@@ -11,7 +11,9 @@ Layout: Content-Sidebar
 }
 .site-content {
     padding-bottom: 4em;
-    background: #b2b2b2 url(../images/pattern.svg) repeat;
+    background: #b2b2b2 url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNSIgaGVpZ2h0PSIxNSI+CjxyZWN0IHdpZHRoPSIxNSIgaGVpZ2h0PSIxNSIgZmlsbD0iIzRmNjM4ZCI+PC9yZWN0Pgo8cGF0aCBkPSJNMCAxNUw3LjUgMEwxNSAxNVoiIGZpbGw9IiMzMDMzNTUiPjwvcGF0aD4KPC9zdmc+") repeat;
+    max-width: 55%;
+    margin: 0 auto;
 }
 .single .site-content,
 .page .site-content {
