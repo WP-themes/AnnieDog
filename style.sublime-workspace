@@ -282,6 +282,22 @@
 				"buffer_size": 35181,
 				"line_ending": "Unix"
 			}
+		},
+		{
+			"file": "inc/custom-header.php",
+			"settings":
+			{
+				"buffer_size": 3505,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Rock Hardbody/Desktop/Ex_Files_Dply_IF_Web/Ex_Files_Dply_IF_Web/Exercise Files/Chapter 02/02_04/finished_files/_css/base.css",
+			"settings":
+			{
+				"buffer_size": 17471,
+				"line_ending": "Unix"
+			}
 		}
 	],
 	"build_system": "",
@@ -374,6 +390,8 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Rock Hardbody/Desktop/Ex_Files_Dply_IF_Web/Ex_Files_Dply_IF_Web/Exercise Files/Chapter 03/03_01/_css/base.css",
+		"/C/Users/Rock Hardbody/Desktop/Ex_Files_Dply_IF_Web/Ex_Files_Dply_IF_Web/Exercise Files/Chapter 02/02_04/_css/base.css",
 		"/C/Users/Rock Hardbody/Documents/Websites/wdp.dev/wp-content/themes/annie-dog/js/hide-search.js",
 		"/C/Users/Rock Hardbody/Documents/Websites/wdp.dev/wp-content/themes/annie-dog/layouts/content-sidebar.css",
 		"/C/Users/Rock Hardbody/Documents/Websites/wdp.dev/wp-content/themes/annie-dog/functions.php",
@@ -499,9 +517,7 @@
 		"/C/Users/Rock Hardbody/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
 		"/C/Users/Rock Hardbody/AppData/Roaming/Sublime Text 3/Packages/User/LiveReload.sublime-settings",
 		"/C/Users/Rock Hardbody/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
-		"/C/Users/Rock Hardbody/AppData/Roaming/Sublime Text 3/Packages/User/SublimeMagick.sublime-settings",
-		"/C/Users/Rock Hardbody/Desktop/WordPress Stuff/Genesis/Child Themes/genesis-sample-child-theme/genesis-sample-child-theme/functions.php",
-		"/C/Users/Rock Hardbody/Documents/Websites/newbusinesswebsite.dev/wp-content/themes/twentythirteen/header.php"
+		"/C/Users/Rock Hardbody/AppData/Roaming/Sublime Text 3/Packages/User/SublimeMagick.sublime-settings"
 	],
 	"find":
 	{
@@ -725,7 +741,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -741,8 +757,8 @@
 						"selection":
 						[
 							[
-								8132,
-								8132
+								7855,
+								7855
 							]
 						],
 						"settings":
@@ -751,6 +767,63 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 13538.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "inc/custom-header.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 3505,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": -0.0,
+						"translation.y": 360.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/Rock Hardbody/Desktop/Ex_Files_Dply_IF_Web/Ex_Files_Dply_IF_Web/Exercise Files/Chapter 02/02_04/finished_files/_css/base.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 17471,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								17123,
+								17123
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": -0.0,
+						"translation.y": 12120.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
