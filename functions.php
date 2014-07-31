@@ -132,13 +132,15 @@ add_action( 'widgets_init', 'annie_dog_widgets_init' );
 
 				wp_enqueue_style( 'annie-dog-fontawesome', 'http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css');
 
+	 			wp_enqueue_style( 'annie-dog-iconic-styles', get_template_directory_uri() . '/css/iconic-bootstrap.css');
+
 				wp_enqueue_script( 'annie-dog-superfish', get_template_directory_uri() . '/js/superfish.min.js', array('jquery'), '20140725', true );
 
 				wp_enqueue_script( 'annie-dog-superfish-settings', get_template_directory_uri() . '/js/superfish-settings.js', array('annie-dog-superfish'), '20140725', true );
 
 				wp_enqueue_script( 'annie-dog-navigation', get_template_directory_uri() . '/js/navigation.js', array(), '20140725', true );
 
-				// wp_enqueue_script( 'annie-dog-iconic', get_template_directory_uri() . '/js/iconic.min.js', array(), '20140725', true );
+				wp_enqueue_script( 'annie-dog-iconic', get_template_directory_uri() . '/js/iconic.min.js', array(), true );
 
 			  wp_enqueue_script( 'annie-dog-hide-search', get_template_directory_uri() . '/js/hide-search.js', array('jquery'), '20140725', true );
 

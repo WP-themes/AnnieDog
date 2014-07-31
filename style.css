@@ -205,6 +205,7 @@ big {
 	font-size: 125%;
 }
 
+
 /*--------------------------------------------------------------
 3.0 Elements
 --------------------------------------------------------------*/
@@ -687,6 +688,32 @@ a:hover.page-numbers {
     font-weight: bold;
     color: #000;
     color: hsl(0, 0%, 0%);
+}
+/* icon font styles */
+span[data-icon]:before {
+  font-family: iconic;
+  content: attr(data-icon);
+  font-weight: 400;
+  font-style: normal;
+  text-transform: none;
+  font-variant: normal;
+  letter-spacing: normal;
+  line-height: 1;
+  display: inline-block;
+  font-size:3em;
+  margin-right:0.5em;
+}
+.none {
+  -webkit-font-smoothing: none;
+  /*-moz-osx-font-smoothing: auto; -no equivalent */
+}
+.anti {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.sub {
+  -webkit-font-smoothing: subpixel-antialiased;
+  -moz-osx-font-smoothing: auto;
 }
 
 
@@ -1291,6 +1318,7 @@ blockquote.alignright {
         margin-left: -160px;
         float: left;
         text-align: right;
+        background: white;
     }
 
     .single .byline,
